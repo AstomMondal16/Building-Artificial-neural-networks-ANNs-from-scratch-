@@ -37,7 +37,9 @@ This repository contains a custom implementation of a neural network to predict 
 ## Installation
 
 1. **Clone this repository**:
-2.     git clone https://github.com/your_username/kidney-stone-prediction.git
-3.     cd kidney-stone-prediction
+```bash   
+git clone https://github.com/your_username/kidney-stone-prediction.git
+cd kidney-stone-prediction
+```
 
    
