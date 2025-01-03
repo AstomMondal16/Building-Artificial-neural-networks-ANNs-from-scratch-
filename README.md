@@ -51,7 +51,7 @@ Dataset: Ensure the kidney-stone-dataset.csv file is in the same directory as th
 The `kidney-stone-dataset.csv` file is expected to have the following structure:
 
 - **Feature Columns**: Contains numerical data representing features relevant to kidney stone prediction.
-- **Target Column**: A binary column (`1` for positive cases, `0` for negative cases`).
+- **Target Column**: A binary column (`1` for positive cases, `0` for negative cases).
 
 ### Notes:
 - Ensure the dataset does not contain any missing or invalid values.
