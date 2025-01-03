@@ -41,5 +41,20 @@ This repository contains a custom implementation of a neural network to predict 
 git clone https://github.com/your_username/kidney-stone-prediction.git
 cd kidney-stone-prediction
 ```
+Install dependencies: Use pip to install the required libraries:
+
+    pip install numpy pandas scikit-learn
+Dataset: Ensure the kidney-stone-dataset.csv file is in the same directory as the code.
+
+## Dataset
+
+The `kidney-stone-dataset.csv` file is expected to have the following structure:
+
+- **Feature Columns**: Contains numerical data representing features relevant to kidney stone prediction.
+- **Target Column**: A binary column (`1` for positive cases, `0` for negative cases`).
+
+### Notes:
+- Ensure the dataset does not contain any missing or invalid values.
+- If the dataset contains additional columns (e.g., an index column), they will be ignored during processing.
 
    
